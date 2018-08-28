@@ -1,0 +1,76 @@
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe.config
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csprojResolveAssemblyReference.cache
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmMain.resources
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmKidsMovie.resources
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmLibraryMovie.resources
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewRelease.resources
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.Properties.Resources.resources
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csproj.GenerateResource.Cache
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.pdb
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.exe
+F:\Semester 2\C#\Visual Studio 2015\Projects\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.pdb
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe.config
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.exe
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.pdb
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.pdb
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmMain.resources
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmKidsMovie.resources
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmLibraryMovie.resources
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewRelease.resources
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.Properties.Resources.resources
+C:\Users\USER\Downloads\OneDrive_2018-02-10\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe.config
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.exe
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.pdb
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.pdb
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmMain.resources
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmKidsMovie.resources
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmLibraryMovie.resources
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewRelease.resources
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.Properties.Resources.resources
+C:\Users\USER\Downloads\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csproj.GenerateResource.Cache
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe.config
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.exe
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.pdb
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.pdb
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csprojResolveAssemblyReference.cache
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmMain.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmKidsMovie.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmLibraryMovie.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewRelease.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.Properties.Resources.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csproj.GenerateResource.Cache
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe.config
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.exe
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.pdb
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.pdb
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csprojResolveAssemblyReference.cache
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmMain.resources
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmKidsMovie.resources
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmLibraryMovie.resources
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewRelease.resources
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmSaleTax.resources
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.Properties.Resources.resources
+G:\Work\Semester 2\C#\Assign 4\LateFeeCalculator (1)\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csproj.GenerateResource.Cache
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe.config
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.exe
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.pdb
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.exe
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\bin\Debug\LateFeeCalculator.pdb
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csprojResolveAssemblyReference.cache
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmMain.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmKidsMovie.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmLibraryMovie.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewMovie.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmNewRelease.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmRentalMaintenance.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.frmSaleTax.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.Properties.Resources.resources
+G:\Work\Semester 2\C#\LateFeeCalculator (2)\LateFeeCalculator\LateFeeCalculator\LateFeeCalculator\obj\Debug\LateFeeCalculator.csproj.GenerateResource.Cache
